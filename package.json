@@ -1,15 +1,24 @@
 {
   "name": "specialities",
   "version": "1.0.0",
-  "description": "",
+  "description": "users by specialities",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mari Luz Castro",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariluz93/specialities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mariluz93/specialities/issues"
+  },
+  "homepage": "https://github.com/Mariluz93/specialities#readme"
 }
